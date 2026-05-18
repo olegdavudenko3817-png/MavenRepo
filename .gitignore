@@ -1,0 +1,15 @@
+
+*.class
+
+
+/out/
+/target/
+/bin/
+
+
+.idea/
+*.iml
+
+
+*.log
+.DS_Store
